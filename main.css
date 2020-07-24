@@ -1,0 +1,21 @@
+body {
+    background-color: #2B2D42;
+}
+
+p {
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.home {
+    background-color: #2d3133;
+    margin: auto;
+    border-radius: 2em;
+    width: 800px;
+    height: 100px;
+}
+
+.regular {
+    font-size: 4em;
+    text-align: center;
+}
